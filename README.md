@@ -1,1 +1,3 @@
-# mani-notebooks
+# Collection of my notes
+
+
