@@ -1,4 +1,4 @@
-# ML bits
+# Machine Learning
 
 ### ML verus Rule Based Approach
 
